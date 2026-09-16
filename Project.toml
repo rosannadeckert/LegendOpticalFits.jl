@@ -28,7 +28,7 @@ LegendOpticalFitsPlotsExt = ["Plots"]
 
 [compat]
 BAT = "4.0.3"
-CSV = "0.10.15"
+CSV = "0.10.15, 1"
 DensityInterface = "0.4.0"
 Distributions = "0.25.120"
 HDF5 = "0.17.2"
